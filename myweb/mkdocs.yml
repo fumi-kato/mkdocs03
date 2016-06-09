@@ -12,4 +12,4 @@ pages:
 - ホーム: index.md
 - 本サイトについて: about.md
 - 'サンプル': 'samples/index.md'
-- 'ハロー' : 'samples/hello.md'
+- 'ハロー' : 'hello.md'
