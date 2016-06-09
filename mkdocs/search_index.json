@@ -34,6 +34,16 @@
             "location": "/samples/#_1", 
             "text": "", 
             "title": "\u30b5\u30f3\u30d7\u30eb"
+        }, 
+        {
+            "location": "/hello/", 
+            "text": "\u3053\u3093\u306b\u3061\u306f", 
+            "title": "\u30cf\u30ed\u30fc"
+        }, 
+        {
+            "location": "/hello/#_1", 
+            "text": "", 
+            "title": "\u3053\u3093\u306b\u3061\u306f"
         }
     ]
 }
